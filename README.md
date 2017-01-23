@@ -16,15 +16,19 @@ The code does the following :
 ## 3. Exploratory Data Analysis
 ## a) Univariate Analysis
 Typical variable types and ideal plots to depict their distribution -
+
 i. Categorical variables: Look for deviations from rank frequency distribution 
 Plot rank vs frequency in descending order of log-log graph 
+
 ii. Ordered categorical variables: Look for distribution, multimodality, spikes, gaps, outliers - 
 Plot rank vs frequency in log-log graph
+
 iii. Continuous variables: bin it and look for type of distribution, multimodality, spikes, gaps, outliers 
 Frequency histogram in log y scale
 
 ## b) Bivariate analysis:
 Say, m categorical variables, n numeric variables  
+
 i. Categorical vs categorical : Contingency Table/Cross Tabs - matrix ( 3 dimension ) 
 Chi-squared test : to validate results 
 Visualization - Heat Map 
