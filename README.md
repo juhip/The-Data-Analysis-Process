@@ -1,3 +1,5 @@
+R codes: https://rpubs.com/juhip/univariate
+
 # The-Data-Analysis-Process
 Automated codesets to analyse any dataset and generate insights from the same
 
